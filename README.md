@@ -1,6 +1,6 @@
 # AspirationChallange 2021
 
-Scenario Outline: Task1
+Scenario Outline: Task1 - Automate UI 
 
 Create a test suite using Cucumber/Selenium + your language of choice (we use Ruby here)
 
